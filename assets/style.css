@@ -1,0 +1,7 @@
+body { background: #f6f7fb; }
+.hero { background: linear-gradient(135deg,#212529,#495057); color:#fff; border-radius: 18px; }
+.food-card { transition: .2s; }
+.food-card:hover { transform: translateY(-4px); box-shadow: 0 10px 25px rgba(0,0,0,.08); }
+.food-img { height: 180px; object-fit: cover; background:#e9ecef; }
+.price { font-size:1.15rem; font-weight:700; }
+.table td,.table th { vertical-align:middle; }

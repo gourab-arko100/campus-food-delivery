@@ -1,0 +1,15 @@
+# XAMPP / local configuration
+config/local.php
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Runtime uploads
+uploads/*
+!uploads/.gitkeep
