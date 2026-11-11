@@ -268,8 +268,14 @@ This project was developed as a university-level web application project to demo
 - E-commerce-style cart and checkout flow
 - Relational database relationships
 
-## Repository Note
+---
 
-This repository contains a reconstructed version of a previously developed project whose original source files were lost.
+## 👨‍💻 Author
 
-The reconstruction preserves the main concept, database structure, and expected functionality while providing a clean codebase that can be studied, modified, and extended.
+**Gourab Krishna Saha**
+
+Computer Science & Engineering student | Web Development | Software Projects
+
+If you find this project interesting, consider giving the repository a ⭐.
+
+---
